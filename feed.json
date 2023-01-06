@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Figure Ice Tee",
     "description": "",
-    "home_page_url": "https://figureicetee.github.io",
-    "feed_url": "https://figureicetee.github.io/feed.json",
+    "home_page_url": "https://figureicetee.github.io/fit",
+    "feed_url": "https://figureicetee.github.io/fit/feed.json",
     "user_comment": "",
     "author": {
         "name": "Tee"
     },
     "items": [
         {
-            "id": "https://figureicetee.github.io/eco-freindly-spider-man-soakers/index.html",
-            "url": "https://figureicetee.github.io/eco-freindly-spider-man-soakers/index.html",
+            "id": "https://figureicetee.github.io/fit/eco-freindly-spider-man-soakers/index.html",
+            "url": "https://figureicetee.github.io/fit/eco-freindly-spider-man-soakers/index.html",
             "title": "ECO-FRIENDLY Spider Man Soakers",
             "summary": "Price: $10.00 In Stock: Yes Available: 6 Description: These Spider Man Soakers are eco-friendly as we used a blanket that we aren't using anymore. Other products",
-            "content_html": "<p> </p>\n<p>Price: $10.00</p>\n<p>In Stock: <span style=\"color: #2dc26b;\">Yes</span></p>\n<p>Available: 6</p>\n<p><span style=\"color: #2dc26b;\"><span style=\"color: #000000;\">Description: These Spider Man Soakers are eco-friendly as we used a blanket that we aren't using anymore.</span></span></p>\n<p><a href=\"https://figureicetee.github.io/products-2/index.html\">Other products</a></p>",
+            "content_html": "<p> </p>\n<p>Price: $10.00</p>\n<p>In Stock: <span style=\"color: #2dc26b;\">Yes</span></p>\n<p>Available: 6</p>\n<p><span style=\"color: #2dc26b;\"><span style=\"color: #000000;\">Description: These Spider Man Soakers are eco-friendly as we used a blanket that we aren't using anymore.</span></span></p>\n<p><a href=\"https://figureicetee.github.io/fit/products-2/index.html\">Other products</a></p>",
             "author": {
                 "name": "Tee"
             },
@@ -24,11 +24,11 @@
             "date_modified": "2023-01-06T14:25:19+10:00"
         },
         {
-            "id": "https://figureicetee.github.io/promo-basketball-soaker/index.html",
-            "url": "https://figureicetee.github.io/promo-basketball-soaker/index.html",
+            "id": "https://figureicetee.github.io/fit/promo-basketball-soaker/index.html",
+            "url": "https://figureicetee.github.io/fit/promo-basketball-soaker/index.html",
             "title": "PROMO Basketball Soaker",
             "summary": "Price: $10.00 In Stock: Yes Quantity: 1 Description: In Stock: Yes Quantity: 1 Description: Quantity: 1 Description: Description: This is our first soaker we have made! It is our test soaker and now it has made our plan. Other products",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://figureicetee.github.io/media/posts/6/Figure-Ice-Tee-Skates.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"100vw\" srcset=\"https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-xs.jpg 300w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-sm.jpg 480w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-md.jpg 768w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-lg.jpg 1024w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-xl.jpg 1360w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-2xl.jpg 1600w\"></figure>\n<p>Price: $10.00 In Stock: <span style=\"color: #2dc26b;\">Yes <span style=\"color: #000000;\">Quantity: 1 Description:</span></span></p>\n<p>In Stock: <span style=\"color: #2dc26b;\">Yes <span style=\"color: #000000;\">Quantity: 1 Description:</span></span></p>\n<p>Quantity: 1 Description:</p>\n<p>Description: This is our first soaker we have made! It is our test soaker and now it has made our plan.</p>\n<p><a href=\"https://figureicetee.github.io/products-2/index.html\">Other products</a></p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://figureicetee.github.io/fit/media/posts/6/Figure-Ice-Tee-Skates.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"100vw\" srcset=\"https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-xs.jpg 300w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-sm.jpg 480w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-md.jpg 768w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-lg.jpg 1024w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-xl.jpg 1360w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-2xl.jpg 1600w\"></figure>\n<p>Price: $10.00 In Stock: <span style=\"color: #2dc26b;\">Yes <span style=\"color: #000000;\">Quantity: 1 Description:</span></span></p>\n<p>In Stock: <span style=\"color: #2dc26b;\">Yes <span style=\"color: #000000;\">Quantity: 1 Description:</span></span></p>\n<p>Quantity: 1 Description:</p>\n<p>Description: This is our first soaker we have made! It is our test soaker and now it has made our plan.</p>\n<p><a href=\"https://figureicetee.github.io/fit/products-2/index.html\">Other products</a></p>",
             "author": {
                 "name": "Tee"
             },
@@ -38,8 +38,8 @@
             "date_modified": "2023-01-06T13:24:46+10:00"
         },
         {
-            "id": "https://figureicetee.github.io/our-misson/index.html",
-            "url": "https://figureicetee.github.io/our-misson/index.html",
+            "id": "https://figureicetee.github.io/fit/our-misson/index.html",
+            "url": "https://figureicetee.github.io/fit/our-misson/index.html",
             "title": "Our Mission",
             "summary": "Our mission is to establish circular economy. We believe that the world we live in is dying and that we need to protect it. To help us, we encourage you as the consumers to give us your soakers if they need repairing. We also encourage&hellip;",
             "content_html": "<p>Our mission is to establish circular economy. We believe that the world we live in is dying and that we need to protect it. To help us, we encourage you as the consumers to give us your soakers if they need repairing. We also encourage you to give us old sheets of fabric with a minimum dimension of 50cm x 40cm and we can make it into a pair of soakers.</p>\n<p>Click the word Figure Ice Tee in the top left corner to go back to homepage.</p>",
@@ -52,8 +52,8 @@
             "date_modified": "2023-01-06T13:40:55+10:00"
         },
         {
-            "id": "https://figureicetee.github.io/products-2/index.html",
-            "url": "https://figureicetee.github.io/products-2/index.html",
+            "id": "https://figureicetee.github.io/fit/products-2/index.html",
+            "url": "https://figureicetee.github.io/fit/products-2/index.html",
             "title": "Products",
             "summary": "Note: Please excuse us if our products our not identical to one another a we hand cut them and sew them with a machine. We have a variety of products to choose from and as we are a new and small company, you will have&hellip;",
             "content_html": "<p><strong>Note:</strong> Please excuse us if our products our not identical to one another a we hand cut them and sew them with a machine. We have a variety of products to choose from and as we are a new and small company, you will have to send us an e-mail at  to order your product and we currently only have soakers. In the future, we might add more products and maybe we will add an ordering and payment system.</p>\n<div class=\"products\">\n<p class=\"align-left\"><a href=\"#INTERNAL_LINK#/post/null\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">ECO-FRIENDLY Spider Man Soakers</a></p>\n</div>\n<p>Click the word Figure Ice Tee in the top left corner to go back to homepage.</p>",
@@ -66,8 +66,8 @@
             "date_modified": "2023-01-06T14:39:43+10:00"
         },
         {
-            "id": "https://figureicetee.github.io/about-us/index.html",
-            "url": "https://figureicetee.github.io/about-us/index.html",
+            "id": "https://figureicetee.github.io/fit/about-us/index.html",
+            "url": "https://figureicetee.github.io/fit/about-us/index.html",
             "title": "About Us",
             "summary": "We are a family of four. Tee started skating when she was three and was having fun. When she saw her older cousin, Tee was determined to be a figure skater. four years later, she is now going to competitions. Tee and her family love&hellip;",
             "content_html": "<p>We are a family of four. Tee started skating when she was three and was having fun. When she saw her older cousin, Tee was determined to be a figure skater. four years later, she is now going to competitions. Tee and her family love to make ice tea and our business was inspired by ice skating and ice tea.</p>\n<p>Click the word Figure Ice Tee in the top left corner to go back to homepage.</p>\n<p> </p>",

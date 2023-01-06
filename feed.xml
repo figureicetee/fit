@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Figure Ice Tee</title>
-    <link href="https://figureicetee.github.io/feed.xml" rel="self" />
-    <link href="https://figureicetee.github.io" />
+    <link href="https://figureicetee.github.io/fit/feed.xml" rel="self" />
+    <link href="https://figureicetee.github.io/fit" />
     <updated>2023-01-06T14:39:43+10:00</updated>
     <author>
         <name>Tee</name>
     </author>
-    <id>https://figureicetee.github.io</id>
+    <id>https://figureicetee.github.io/fit</id>
 
     <entry>
         <title>ECO-FRIENDLY Spider Man Soakers</title>
         <author>
             <name>Tee</name>
         </author>
-        <link href="https://figureicetee.github.io/eco-freindly-spider-man-soakers/index.html"/>
-        <id>https://figureicetee.github.io/eco-freindly-spider-man-soakers/index.html</id>
+        <link href="https://figureicetee.github.io/fit/eco-freindly-spider-man-soakers/index.html"/>
+        <id>https://figureicetee.github.io/fit/eco-freindly-spider-man-soakers/index.html</id>
 
         <updated>2023-01-06T14:25:19+10:00</updated>
             <summary>
@@ -30,7 +30,7 @@
 <p>In Stock: <span style="color: #2dc26b;">Yes</span></p>
 <p>Available: 6</p>
 <p><span style="color: #2dc26b;"><span style="color: #000000;">Description: These Spider Man Soakers are eco-friendly as we used a blanket that we aren't using anymore.</span></span></p>
-<p><a href="https://figureicetee.github.io/products-2/index.html">Other products</a></p>
+<p><a href="https://figureicetee.github.io/fit/products-2/index.html">Other products</a></p>
             ]]>
         </content>
     </entry>
@@ -39,8 +39,8 @@
         <author>
             <name>Tee</name>
         </author>
-        <link href="https://figureicetee.github.io/promo-basketball-soaker/index.html"/>
-        <id>https://figureicetee.github.io/promo-basketball-soaker/index.html</id>
+        <link href="https://figureicetee.github.io/fit/promo-basketball-soaker/index.html"/>
+        <id>https://figureicetee.github.io/fit/promo-basketball-soaker/index.html</id>
 
         <updated>2023-01-06T13:24:46+10:00</updated>
             <summary>
@@ -50,12 +50,12 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://figureicetee.github.io/media/posts/6/Figure-Ice-Tee-Skates.jpg" alt="" width="4032" height="3024" sizes="100vw" srcset="https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-xs.jpg 300w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-sm.jpg 480w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-md.jpg 768w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-lg.jpg 1024w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-xl.jpg 1360w ,https://figureicetee.github.io/media/posts/6/responsive/Figure-Ice-Tee-Skates-2xl.jpg 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://figureicetee.github.io/fit/media/posts/6/Figure-Ice-Tee-Skates.jpg" alt="" width="4032" height="3024" sizes="100vw" srcset="https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-xs.jpg 300w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-sm.jpg 480w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-md.jpg 768w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-lg.jpg 1024w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-xl.jpg 1360w ,https://figureicetee.github.io/fit/media/posts/6/responsive/Figure-Ice-Tee-Skates-2xl.jpg 1600w"></figure>
 <p>Price: $10.00 In Stock: <span style="color: #2dc26b;">Yes <span style="color: #000000;">Quantity: 1 Description:</span></span></p>
 <p>In Stock: <span style="color: #2dc26b;">Yes <span style="color: #000000;">Quantity: 1 Description:</span></span></p>
 <p>Quantity: 1 Description:</p>
 <p>Description: This is our first soaker we have made! It is our test soaker and now it has made our plan.</p>
-<p><a href="https://figureicetee.github.io/products-2/index.html">Other products</a></p>
+<p><a href="https://figureicetee.github.io/fit/products-2/index.html">Other products</a></p>
             ]]>
         </content>
     </entry>
@@ -64,8 +64,8 @@
         <author>
             <name>Tee</name>
         </author>
-        <link href="https://figureicetee.github.io/our-misson/index.html"/>
-        <id>https://figureicetee.github.io/our-misson/index.html</id>
+        <link href="https://figureicetee.github.io/fit/our-misson/index.html"/>
+        <id>https://figureicetee.github.io/fit/our-misson/index.html</id>
 
         <updated>2023-01-06T13:40:55+10:00</updated>
             <summary>
@@ -85,8 +85,8 @@
         <author>
             <name>Tee</name>
         </author>
-        <link href="https://figureicetee.github.io/products-2/index.html"/>
-        <id>https://figureicetee.github.io/products-2/index.html</id>
+        <link href="https://figureicetee.github.io/fit/products-2/index.html"/>
+        <id>https://figureicetee.github.io/fit/products-2/index.html</id>
 
         <updated>2023-01-06T14:39:43+10:00</updated>
             <summary>
@@ -109,8 +109,8 @@
         <author>
             <name>Tee</name>
         </author>
-        <link href="https://figureicetee.github.io/about-us/index.html"/>
-        <id>https://figureicetee.github.io/about-us/index.html</id>
+        <link href="https://figureicetee.github.io/fit/about-us/index.html"/>
+        <id>https://figureicetee.github.io/fit/about-us/index.html</id>
 
         <updated>2023-01-06T13:42:27+10:00</updated>
             <summary>

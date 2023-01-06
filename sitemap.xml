@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://figureicetee.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://figureicetee.github.io/fit/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://figureicetee.github.io/</loc>
+<loc>https://figureicetee.github.io/fit/</loc>
 </url>
 <url>
-<loc>https://figureicetee.github.io/about-us/</loc>
+<loc>https://figureicetee.github.io/fit/about-us/</loc>
 <lastmod>2023-01-06T13:42:27+10:00</lastmod>
 </url>
 <url>
-<loc>https://figureicetee.github.io/eco-freindly-spider-man-soakers/</loc>
+<loc>https://figureicetee.github.io/fit/eco-freindly-spider-man-soakers/</loc>
 <lastmod>2023-01-06T14:25:19+10:00</lastmod>
 </url>
 <url>
-<loc>https://figureicetee.github.io/our-misson/</loc>
+<loc>https://figureicetee.github.io/fit/our-misson/</loc>
 <lastmod>2023-01-06T13:40:55+10:00</lastmod>
 </url>
 <url>
-<loc>https://figureicetee.github.io/products-2/</loc>
+<loc>https://figureicetee.github.io/fit/products-2/</loc>
 <lastmod>2023-01-06T14:39:43+10:00</lastmod>
 </url>
 <url>
-<loc>https://figureicetee.github.io/promo-basketball-soaker/</loc>
+<loc>https://figureicetee.github.io/fit/promo-basketball-soaker/</loc>
 <lastmod>2023-01-06T13:24:46+10:00</lastmod>
 <image:image>
-<image:loc>https://figureicetee.github.io/media\posts\6/Figure-Ice-Tee-Skates.jpg</image:loc>
+<image:loc>https://figureicetee.github.io/fit/media\posts\6/Figure-Ice-Tee-Skates.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
